@@ -1,0 +1,13 @@
+C:\C#\Projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.csproj.AssemblyReference.cache
+C:\C#\Projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.AssemblyInfoInputs.cache
+C:\C#\Projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.AssemblyInfo.cs
+C:\C#\Projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.csproj.CoreCompileInputs.cache
+C:\C#\Projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.deps.json
+C:\C#\Projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.runtimeconfig.json
+C:\C#\Projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.runtimeconfig.dev.json
+C:\C#\Projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.dll
+C:\C#\Projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.pdb
+C:\C#\Projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.dll
+C:\C#\Projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.pdb
+C:\C#\Projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.genruntimeconfig.cache
